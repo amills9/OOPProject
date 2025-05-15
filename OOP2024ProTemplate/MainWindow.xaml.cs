@@ -22,11 +22,9 @@ namespace OOP2024ProTemplate
             // Add code below to complete the implementation to populate the listBox
             // by reading the employee.csv file into a List of PaySlip objects, then binding this to the DatatGrid (OR ListBox.)
             // CSV file format: <employee ID>, <first name>, <last name>, <hourly rate>,<taxthreshold>
-            List<Employee> employees = new List<Employee>();
-
+            //List<Employee> employees = new List<Employee>();
             //employees with some CSV import list?
-
-            empDataGrid.DataContext = employees;
+            //empDataGrid.DataContext = employees;
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

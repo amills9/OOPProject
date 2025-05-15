@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:OOP2024ProTemplate"
         mc:Ignorable="d"
         Title="MainWindow" Height="550" Width="1012">
-    <Grid>
+    <Grid Background="#FF97C5F7">
         <Rectangle HorizontalAlignment="Left" Height="457" Margin="690,0,0,0" Stroke="Black" VerticalAlignment="Center" Width="300"/>
 
 
